@@ -11,7 +11,7 @@ Frontend - [VentureChat/venture-frontend](https://github.com/VentureChat/venture
   <br> ```bash
    git clone https://github.com/FAYSi223/simple-socke.io-chat-server.git
    cd venture-chat```
-2. **Install required stuff:**
+2. **Install required stuff**:
 <br> ```npm install express```
 <br> ```npm install socket.io```
 <br> ```npm install http```
