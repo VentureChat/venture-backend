@@ -2,8 +2,8 @@
 
 Venture is a real-time chat application built with **Socket.IO**, **Node.js**, and **Express**. Users can set a username and chat in real time with a clean, dark-themed UI. CORS allows connections from multiple domains.
 ## Navigation
-Frontend - [spookehneko/venture-frontend](https://github.com/spookehneko/venture-frontend)
-<br> Backend (You are here!)
+Frontend - [VentureChat/venture-frontend](https://github.com/VentureChat/venture-frontend)
+<br> Backend - (You are here!)
 
 ## Installation
 
